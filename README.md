@@ -6,7 +6,7 @@ This repository contains a Python script to benchmark the direct PostgreSQL driv
 
 After running the benchmarks, the following results were obtained:
 
-```sql
+```bash
 +------------------------------+--------------------+----------+
 | Method                       | Duration           | Slowness |
 +------------------------------+--------------------+----------+
